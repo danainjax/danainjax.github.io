@@ -1,11 +1,11 @@
 # Site settings
 author: Dana Pughakoff
-title: 
+title: Tech Ticket
 header-img: img/home-bg.png
 email: danainjax@gmail.com
 copyright_name: Dana Pughakoff
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Travel to Technology. Career travel agent to Software Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: danainjax
 github_username:  danainjax
