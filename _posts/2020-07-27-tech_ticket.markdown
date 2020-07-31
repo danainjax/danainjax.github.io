@@ -1,10 +1,23 @@
 ---
 layout: post
 title:      "Tech Ticket"
-date:       2020-07-27 08:27:30 +0000
+date:       2020-07-27 04:27:31 -0400
 permalink:  tech_ticket
 ---
 
 
-Test blog post. Troubleshooting configuration/set-up issues.
-orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+What is coding? That’s not for me. I *am not* a tech person. Math is *not *my thing. (That’s what I thought.) For twenty years I thought that. Maybe more. 
+
+I’ve always loved working with computers, but also always assumed I did not have the aptitude to work with them past my current role, because math and science didn’t interest me as much as literature, movies, thinking, contemplation, philosophy, and yes- travel. I’ve been a travel agent for over twenty years. That’s a long time to do something. When I think about the favorite parts of my job there are two:
+
+1. Getting to travel places I have never been to before. Discovery. Exploration. Adventure.
+
+2. Working primarily on a computer in multiple global distribution systems. Figuring out how and why the entries work and return what they do.
+
+I’m on an adventure, now. To join my life-long love of discovery with that love of computing in coding.
+
+Sometimes what we think we know is only the best we know at a particular time. If I had known there was art in code; art in computer languages, that there was more to it than what it seemed… I would have been here long ago. I’ve always felt somewhat bewildered by the nagging feeling that I wasn’t passionate about anything. Passion was for other people. Well, I’ve found it. I am bananas for software engineering, for code, and for figuring out every last little detail of how and why things work.
+
+Here’s to what’s next! **My ticket to tech.**
+
+
