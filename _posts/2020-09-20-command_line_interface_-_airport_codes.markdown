@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Command Line Interface - Airport Codes"
-date:       2020-09-20 13:21:27 +0000
+date:       2020-09-20 09:21:28 -0400
 permalink:  command_line_interface_-_airport_codes
 ---
 
@@ -18,7 +18,7 @@ OK, so the project process. What’s to tell?
 Mainly, let this post be the one that mentions the most important part of what I assume will be a long line of projects, programs, and/or deliverables. 
 What is the most important part? How do I say it? You’ve got to bring YOU. 
 
-Not part of you, not some of you- all the YOU you currently are plus the some of you that is learning to code, PLUS Stack overflow, the cohort, the cohort lead, the coach, your pair partner, your priest, your workout program, your life circumstances,  slack, zoom, Ruby docs, Youtubes, Learn.co… 
+Not part of you, not some of you- all the YOU you currently are plus the some of you that is learning to code, PLUS Stack overflow, the cohort, the cohort lead, the  Ed coach, your pair partner, your priest, your workout program, your life circumstances,  slack, zoom, Ruby docs, Youtubes, Learn.co… 
 
 Am I making myself clear? It’s ALL in, or you’re not going to get it done.
 
