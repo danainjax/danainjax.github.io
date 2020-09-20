@@ -54,7 +54,7 @@ JSON.parse(json)
 
 For getting your gem off the ground and figuring out if you can scrape:
 
-(https://youtu.be/KwBMwZ89Hj8)
+(https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s)
 
 For a build walk-through:
 (https://youtu.be/jxZ4a-3UoEM)
