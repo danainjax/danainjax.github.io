@@ -54,11 +54,11 @@ JSON.parse(json)
 
 For getting your gem off the ground and figuring out if you can scrape:
 
-[https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s](http://)
+[https://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s](http://www.youtube.com/watch?v=KwBMwZ89Hj8&list=PLc6AmvC5Zybybc-NjUUwQwTtUEXH4iB2s&index=2&t=0s)
 
 
 For a build walk-through:
-(https://youtu.be/jxZ4a-3UoEM)
+[https://youtu.be/jxZ4a-3UoEM](http://youtu.be/jxZ4a-3UoEM)
 
 
 *Break it. Fix it. Test it. REPEAT -* I often didn’t know how to do what I wanted my code to accomplish. I looked it up. I reviewed past lessons, googled, checked Stack Overflow, and reached out to my cohort lead in-office hours and in one-on-ones. After thinking and planning came the actual coding. Comprehending what I was coding and how it was behaving was an action step. I had to write some and test some to see how it behaved and what I wanted to do next. This is where I realized how much more I knew than when I started, but also the infinite amount there is to learn. Spoiler: That was the most exciting moment of my life!
@@ -67,7 +67,7 @@ For a build walk-through:
 
 Link to my Project Video Walkthrough:
 
-[https://youtu.be/6Up9Fay1ea4](http://)
+[https://youtu.be/6Up9Fay1ea4](http://youtu.be/6Up9Fay1ea4)
 
 
 
