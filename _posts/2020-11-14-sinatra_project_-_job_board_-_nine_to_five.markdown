@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project - Job Board - Nine_to_Five"
-date:       2020-11-14 14:46:40 +0000
+date:       2020-11-14 09:46:41 -0500
 permalink:  sinatra_project_-_job_board_-_nine_to_five
 ---
 
@@ -46,4 +46,4 @@ Confirm
     X You don't include changes in a commit that aren't related to the commit message 
 		
 		
-What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README.
+What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README. (More to come!)
