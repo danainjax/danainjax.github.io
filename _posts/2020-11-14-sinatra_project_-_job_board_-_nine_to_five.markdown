@@ -36,6 +36,7 @@ Specs:
         users can't create a new job without a job title and job company
         Signup cannot happen without a username and password
     * BONUS - not required - Display validation failures to user with error message (example form URL e.g. /posts/new)
+    
 Your README.md includes a short description, install instructions, a contributors guide and a link to the license for your code
 
 Confirm
@@ -48,4 +49,4 @@ Confirm
 		
 What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README? (More to come!)
 
-Link to my Video Walktrhough of NIne_to_Five : https://youtu.be/LQgNnYQvIDw
+Link to my Video Walktrhough of NIne_to_Five : [https://youtu.be/LQgNnYQvIDw](http://)
