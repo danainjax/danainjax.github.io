@@ -46,4 +46,6 @@ Confirm
     X You don't include changes in a commit that aren't related to the commit message 
 		
 		
-What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README. (More to come!)
+What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README? (More to come!)
+
+Link to my Video Walktrhough of NIne_to_Five : https://youtu.be/LQgNnYQvIDw
