@@ -49,4 +49,5 @@ Confirm
 		
 What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README? (More to come!)
 
-Link to my Video Walktrhough of NIne_to_Five : [https://youtu.be/LQgNnYQvIDw](http://)
+Link to my Video Walkthrough of Nine_to_Five : [https://youtu.be/LQgNnYQvIDw](http://)
+Link to Github repo : [https://github.com/danainjax/nine_to_five](http://)
