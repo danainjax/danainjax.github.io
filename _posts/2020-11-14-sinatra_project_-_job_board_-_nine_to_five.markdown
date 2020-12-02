@@ -7,7 +7,7 @@ permalink:  sinatra_project_-_job_board_-_nine_to_five
 
 ![](https://pics.filmaffinity.com/Nine_to_Five_9_To_5-364749326-large.jpg)
 
-Sinatra?
+*Sinatra?*
 
 In looking over the project specifications. I took it one checklist item at a time:
 
@@ -37,7 +37,7 @@ Specs:
         Signup cannot happen without a username and password
     * BONUS - not required - Display validation failures to user with error message (example form URL e.g. /posts/new)
     
-*Your README.md includes a short description, install instructions, a contributors guide and a link to the license for your code*
+> *Your README.md includes a short description, install instructions, a contributors guide and a link to the license for your code*
 
 Confirm
 
@@ -47,7 +47,13 @@ Confirm
     X You don't include changes in a commit that aren't related to the commit message 
 		
 		
-What sticks out? Yes, the README. That is where my story begins. How to get to the bottom of a README?
+What sticks out? 
+
+*The README. *
+
+That is where my story begins. 
+
+# How to get to the bottom of a README?
 
 The most useful resource I found on this topic was submitted via slack by my cohort-mate, Joshua Collins. If you do not know what a readme is or how to make one this is your “go-to”.
 
@@ -87,7 +93,8 @@ Now, that you know the basics, here is my take on the Readme matter. It all boil
 
 Facebook is a way to connect people (you see their story in a timeline), hey, they even created Instagram “Stories”. The Mona Lisa tells the story of Da Vinci’s lady. What’s behind her cryptic smile? I’ve seen it in person in Paris. It will knock your breath from you, the genius of it. Pinterest - the story of all the things I want to make, collect, come back to, or covet. Look at someone’s saved pins and you get to read an often too revealing story of what they are in to. The Godfather movie, your typical Italian American saga of a family trying to break free of the “life” while constantly being the standard by which all other power is measured. Dictionary? The story of language and what it means. Your birth certificate, is the story of your who, what, when, and where. Your mom and dad are listed. Your time and place of birth. It’s where your story begins. 
 
-Lastly, if you are still with me, that song. “Watermelon Sugar”. Goodness. I can’t get it out of my head. I even set my session_secret to it.
+Lastly, if you are still with me, that song, “Watermelon Sugar”. Goodness. I can’t get it out of my head. I even set my session_secret to it.
+
 
 
 *What story does it tell?*
@@ -110,7 +117,7 @@ Albeit perhaps less of a story than the Mona Lisa, but there are all kinds of st
  
 I vibe to “Watermelon Sugar” after I get my broken project fixed. Yes, it’s happened more than five times. Such a high, learning development!
 
-What we put in a Readme matters. *It tells the story. *
+What we put in a Readme matters. *It tells the story.*
 
 To learn all about my story for this project and how to use it, check out my repo - START WITH THE README and enjoy the video walkthrough where I tell you why I made Nine_to_Five.
 
