@@ -107,7 +107,6 @@ Lastly, if you are still with me, that song, “Watermelon Sugar”. Goodness. I
 
 *What story does it tell?*
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.history.com%2Fnews%2Fscientist-finds-hidden-portraits-underneath-mona-lisa&psig=AOvVaw26JVvCkomRIg2Bde4WFXdp&ust=1607013871374000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKivlKzfr-0CFQAAAAAdAAAAABAD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.history.com%2Fnews%2Fscientist-finds-hidden-portraits-underneath-mona-lisa&psig=AOvVaw26JVvCkomRIg2Bde4WFXdp&ust=1607013871374000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKivlKzfr-0CFQAAAAAdAAAAABADhttp://)
 
 Albeit perhaps less of a story than the Mona Lisa, but there are all kinds of stories and music just makes you feel. The lyrics below are either Harry Styles completely enamored with someone, the summer, a combination of those, or it could be whatever we decide. The main point is lyrics are the readme of a song. The picture is the readme of the Mona Lisa, Words are the readme of a dictionary, Pins are the readme of Pinterest, and Friends are usually the readme of Facebook. (Or more specifically, a profile). 
 
