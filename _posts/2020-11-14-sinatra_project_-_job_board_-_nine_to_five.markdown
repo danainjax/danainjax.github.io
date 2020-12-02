@@ -60,6 +60,9 @@ The most useful resource I found on this topic was submitted via slack by my coh
 
 Collected from: [https://www.makeareadme.com/](https://www.makeareadme.com/)
 
+Also helpful is their Markdown Guide: [https://simplemde.com/markdown-guide](https://simplemde.com/markdown-guide)
+
+
 **What is it?**
 
 A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
