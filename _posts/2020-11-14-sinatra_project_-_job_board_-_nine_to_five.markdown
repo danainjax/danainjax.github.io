@@ -95,6 +95,10 @@ Facebook is a way to connect people (you see their story in a timeline), hey, th
 
 Lastly, if you are still with me, that song, “Watermelon Sugar”. Goodness. I can’t get it out of my head. I even set my session_secret to it.
 
+```
+ set :session_secret,"watermelonsugarhigh"
+```
+
 
 
 *What story does it tell?*
