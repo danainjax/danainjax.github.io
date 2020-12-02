@@ -91,6 +91,7 @@ Now, that you know the basics, here is my take on the Readme matter. It all boil
 
 # They tell a story.
 
+
 Facebook is a way to connect people (you see their story in a timeline), hey, they even created Instagram “Stories”. The Mona Lisa tells the story of Da Vinci’s lady. What’s behind her cryptic smile? I’ve seen it in person in Paris. It will knock your breath from you, the genius of it. Pinterest - the story of all the things I want to make, collect, come back to, or covet. Look at someone’s saved pins and you get to read an often too revealing story of what they are in to. The Godfather movie, your typical Italian American saga of a family trying to break free of the “life” while constantly being the standard by which all other power is measured. Dictionary? The story of language and what it means. Your birth certificate, is the story of your who, what, when, and where. Your mom and dad are listed. Your time and place of birth. It’s where your story begins. 
 
 Lastly, if you are still with me, that song, “Watermelon Sugar”. Goodness. I can’t get it out of my head. I even set my session_secret to it.
@@ -102,6 +103,8 @@ Lastly, if you are still with me, that song, “Watermelon Sugar”. Goodness. I
 
 
 *What story does it tell?*
+
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.history.com%2Fnews%2Fscientist-finds-hidden-portraits-underneath-mona-lisa&psig=AOvVaw26JVvCkomRIg2Bde4WFXdp&ust=1607013871374000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKivlKzfr-0CFQAAAAAdAAAAABAD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.history.com%2Fnews%2Fscientist-finds-hidden-portraits-underneath-mona-lisa&psig=AOvVaw26JVvCkomRIg2Bde4WFXdp&ust=1607013871374000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKivlKzfr-0CFQAAAAAdAAAAABADhttp://)
 
 Albeit perhaps less of a story than the Mona Lisa, but there are all kinds of stories and music just makes you feel. The lyrics below are either Harry Styles completely enamored with someone, the summer, a combination of those, or it could be whatever we decide. The main point is lyrics are the readme of a song. The picture is the readme of the Mona Lisa, Words are the readme of a dictionary, Pins are the readme of Pinterest, and Friends are usually the readme of Facebook. (Or more specifically, a profile). 
 
